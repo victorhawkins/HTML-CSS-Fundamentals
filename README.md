@@ -1,2 +1,3 @@
 # HTMLCSSfundamental
-HTML and CSS Fundamentals 
+HTML and CSS Fundamentals.
+Paste into https://codepen.io/pen/ to view!
